@@ -8,7 +8,7 @@ CS graduate, Cum Laude, Polytechnic University of the Philippines.
 
 ## What I build
 
-- **Web apps:** React, Vite, and Express, from Figma wireframe to deployed site.
+- **Web apps:** React from Figma wireframe to deployed site.
 - **Reliable small systems:** like a photobooth that keeps working when the venue Wi-Fi doesn't.
 - **Content that performs:** short-form video and social media (one edit reached 22,000+ views).
 
