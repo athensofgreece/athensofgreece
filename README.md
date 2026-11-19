@@ -18,7 +18,7 @@ CS graduate, Cum Laude, Polytechnic University of the Philippines.
 | --- | --- | --- |
 | [event-photobooth](https://github.com/athensofgreece/event-photobooth) | Kiosk photobooth with an offline-safe email queue for live events | Node.js, Express, Nodemailer, Canvas |
 | [lei-portfolio](https://github.com/athensofgreece/lei-portfolio) | Portfolio site that updates from a Google Sheet, auto-deployed | React, Vite, GitHub Actions |
-| [ppl](https://github.com/athensofgreece/ppl) | Lexer and parser for a custom programming language | C |
+| [awsscd-webpage](https://github.com/athensofgreece/awsscd-webpage) | Responsive event site for AWS Student Community Day: keynotes, sessions, and panel | HTML, CSS, JavaScript |
 | [pomodoro-timer](https://github.com/athensofgreece/pomodoro-timer) | Focus timer with dark mode and a session total | JavaScript, HTML, CSS |
 
 ## Tech
